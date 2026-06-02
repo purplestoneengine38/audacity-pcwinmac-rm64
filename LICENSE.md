@@ -1,4 +1,4 @@
-# 
+# Advanced Audacity plugins for Mac OS | Official Audacity plugins for PC Windows. Featuring collaboration-tools and automation — optimized for maximum performance on every platform.
 
 
 
